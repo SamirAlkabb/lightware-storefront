@@ -8,6 +8,23 @@
        cold load must paint); App.jsx's <SystemChrome> flips it to the paper
        value on /catalog. Keep the two in sync with --color-ink / --color-paper. -->
   <meta name="theme-color" content="#0D0B09" />
+  <!-- ⚠ iOS HOME-SCREEN (Web Clip): theme-color does NOTHING there. The status
+       bar is controlled ONLY by apple-mobile-web-app-status-bar-style, and that
+       tag is INERT unless -capable is "yes" — which is why the notch stayed
+       white however dark the page got (Samir, Aug 16). "black" = an opaque dark
+       bar on BOTH routes; "black-translucent" was rejected on purpose: it slides
+       content under the clock and paints the glyphs white, which is invisible on
+       the cream /catalog page. -capable=yes also makes the Web Clip launch
+       standalone (no Safari chrome) — navigation stays whole: the wordmark goes
+       home, the division pills go to the catalog, the modal closes with ✕. -->
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+  <meta name="apple-mobile-web-app-title" content="Lightware" />
+  <!-- declares which palettes the page really supports, so the UA paints its
+       OWN surfaces (status-bar backdrop, overscroll) dark on the ink homepage
+       instead of defaulting to light; App.jsx flips it per route -->
+  <meta name="color-scheme" content="dark light" />
   <title>Lightware — إنارة معمارية فاخرة | Architectural Lighting</title>
   <meta name="description" content="Lightware — إنارة معمارية وثريات فاخرة في سوريا. ثريات، نوازل، إنارة جدارية وذكية. اطلب عبر واتساب. Premium architectural lighting in Syria — chandeliers, pendants, wall lights. Order via WhatsApp." />
   <link rel="icon" type="image/svg+xml" href="./favicon.svg" />
@@ -31,8 +48,8 @@
   <meta name="twitter:title" content="Lightware — Architectural Lighting" />
   <meta name="twitter:description" content="إنارة معمارية فاخرة — اطلب عبر واتساب | Premium lighting, ordered over WhatsApp." />
   <meta name="twitter:image" content="https://www.lightwaresy.com/og.jpg" />
-  <script type="module" crossorigin src="./assets/index-KGnl5u7s.js"></script>
-  <link rel="stylesheet" crossorigin href="./assets/index-BwYtf8Jq.css">
+  <script type="module" crossorigin src="./assets/index-DbfkBmvE.js"></script>
+  <link rel="stylesheet" crossorigin href="./assets/index-Z-sWPQe2.css">
 </head>
 <body>
   <div id="root"></div>
