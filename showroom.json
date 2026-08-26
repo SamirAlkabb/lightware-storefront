@@ -1,0 +1,28 @@
+[
+ {
+  "code": "SW-IP01",
+  "ref": "SW-IP01",
+  "category": "intercom",
+  "brand": "Urmet",
+  "ar": "لوحة مدخل انترفون — كاميرا و٤ أزرار",
+  "en": "Entrance Panel — Camera + 4 Call Buttons",
+  "sub_ar": "لوحة خارجية بكاميرا وخانات أسامي — معروضة بصالة العرض",
+  "specs": [
+   {
+    "ar": "لوحة خارجية",
+    "en": "Entrance panel"
+   },
+   {
+    "ar": "كاميرا فيديو",
+    "en": "Video camera"
+   },
+   {
+    "ar": "٤ أزرار نداء",
+    "en": "4 call buttons"
+   }
+  ],
+  "component": false,
+  "name_it": "لوحة مدخل انترفون — كاميرا و٤ أزرار Entrance Panel — Camera + 4 Call Buttons",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/srw/SW-IP01.jpg"
+ }
+]
