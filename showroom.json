@@ -28,13 +28,13 @@
  },
  {
   "code": "UR-VOG5",
-  "ref": "UR-VOG5",
+  "ref": "1760/5",
   "brand": "Urmet",
   "category": "intercom",
   "component": false,
-  "ar": "شاشة انترفون VOG5 — ٥ إنش",
-  "en": "VOG5 5″ Video Monitor",
-  "sub_ar": "شاشة لمس — أسود أو أبيض",
+  "ar": "شاشة انترفون VOG5 أسود — ٥ إنش",
+  "en": "VOG5 5″ Video Monitor — Black",
+  "sub_ar": "شاشة لمس زجاج أسود بدون سماعة",
   "specs": [
    {
     "ar": "شاشة ٥ إنش",
@@ -49,35 +49,46 @@
     "en": "Hands-free"
    }
   ],
-  "name_it": "شاشة انترفون VOG5 — ٥ إنش VOG5 5″ Video Monitor Urmet UR-VOG5",
+  "name_it": "شاشة انترفون VOG5 أسود — ٥ إنش VOG5 5″ Video Monitor — Black Urmet 1760/5",
   "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-VOG5.jpg",
-  "extra": [
-   "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-VOG5-1.jpg"
-  ],
-  "variants": [
-   {
-    "ref": "1760/5",
-    "ar": "أسود",
-    "en": "Black",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-VOG5.jpg"
-   },
-   {
-    "ref": "1760/6",
-    "ar": "أبيض",
-    "en": "White",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-VOG5-1.jpg"
-   }
-  ]
+  "extra": []
  },
  {
-  "code": "UR-MIRO5",
-  "ref": "UR-MIRO5",
+  "code": "UR-VOG5W",
+  "ref": "1760/6",
   "brand": "Urmet",
   "category": "intercom",
   "component": false,
-  "ar": "شاشة انترفون Mìro لمس",
-  "en": "Mìro Hands-free Monitor",
-  "sub_ar": "شاشة بدون سماعة — أبيض أو أسود",
+  "ar": "شاشة انترفون VOG5 أبيض — ٥ إنش",
+  "en": "VOG5 5″ Video Monitor — White",
+  "sub_ar": "شاشة لمس بيضا بدون سماعة",
+  "specs": [
+   {
+    "ar": "شاشة ٥ إنش",
+    "en": "5″ screen"
+   },
+   {
+    "ar": "لمس",
+    "en": "Touch keys"
+   },
+   {
+    "ar": "بدون سماعة",
+    "en": "Hands-free"
+   }
+  ],
+  "name_it": "شاشة انترفون VOG5 أبيض — ٥ إنش VOG5 5″ Video Monitor — White Urmet 1760/6",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-VOG5W.jpg",
+  "extra": []
+ },
+ {
+  "code": "UR-MIRO5",
+  "ref": "UR-MIRO5-W",
+  "brand": "Urmet",
+  "category": "intercom",
+  "component": false,
+  "ar": "شاشة انترفون Mìro لمس أبيض",
+  "en": "Mìro Hands-free Monitor — White",
+  "sub_ar": "شاشة بدون سماعة — أبيض",
   "specs": [
    {
     "ar": "لمس",
@@ -88,25 +99,32 @@
     "en": "Hands-free"
    }
   ],
-  "name_it": "شاشة انترفون Mìro لمس Mìro Hands-free Monitor Urmet UR-MIRO5",
+  "name_it": "شاشة انترفون Mìro لمس أبيض Mìro Hands-free Monitor — White Urmet UR-MIRO5-W",
   "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-MIRO5.jpg",
-  "extra": [
-   "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-MIRO5-1.jpg"
-  ],
-  "variants": [
+  "extra": []
+ },
+ {
+  "code": "UR-MIRO5B",
+  "ref": "UR-MIRO5-B",
+  "brand": "Urmet",
+  "category": "intercom",
+  "component": false,
+  "ar": "شاشة انترفون Mìro لمس أسود",
+  "en": "Mìro Hands-free Monitor — Black",
+  "sub_ar": "شاشة بدون سماعة — أسود",
+  "specs": [
    {
-    "ref": "UR-MIRO5-W",
-    "ar": "أبيض",
-    "en": "White",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-MIRO5.jpg"
+    "ar": "لمس",
+    "en": "Touch keys"
    },
    {
-    "ref": "UR-MIRO5-B",
-    "ar": "أسود",
-    "en": "Black",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-MIRO5-1.jpg"
+    "ar": "بدون سماعة",
+    "en": "Hands-free"
    }
-  ]
+  ],
+  "name_it": "شاشة انترفون Mìro لمس أسود Mìro Hands-free Monitor — Black Urmet UR-MIRO5-B",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-MIRO5B.jpg",
+  "extra": []
  },
  {
   "code": "UR-1183",
@@ -355,13 +373,13 @@
  },
  {
   "code": "OV-BACH",
-  "ref": "MixSwitch Bach",
+  "ref": "MixSwitch Bach Gold",
   "brand": "Orvibo",
   "category": "automation",
   "component": false,
-  "ar": "مفاتيح ذكية — سلسلة Bach",
-  "en": "Bach Series Smart Switches",
-  "sub_ar": "مفاتيح زجاج فخمة — ذهبي أو أسود",
+  "ar": "مفاتيح ذكية Bach — ذهبي",
+  "en": "Bach Smart Switches — Gold",
+  "sub_ar": "واجهة زجاج شمبانيا مع بانل شاشة",
   "specs": [
    {
     "ar": "واجهة زجاج",
@@ -372,26 +390,35 @@
     "en": "Scene keys"
    }
   ],
-  "name_it": "مفاتيح ذكية — سلسلة Bach Bach Series Smart Switches Orvibo MixSwitch Bach",
+  "name_it": "مفاتيح ذكية Bach — ذهبي Bach Smart Switches — Gold Orvibo MixSwitch Bach Gold",
   "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-BACH.jpg",
-  "extra": [
-   "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-BACH-1.jpg"
-  ],
-  "variants": [
+  "extra": [],
+  "scene": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/scene-OV-BACH.jpg"
+ },
+ {
+  "code": "OV-BACHB",
+  "ref": "MixSwitch Bach Dark",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "مفاتيح ذكية Bach — أسود",
+  "en": "Bach Smart Switches — Black",
+  "sub_ar": "واجهة زجاج غامقة مع بانل شاشة",
+  "specs": [
    {
-    "ref": "OV-BACH-G",
-    "ar": "ذهبي",
-    "en": "Gold",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-BACH.jpg"
+    "ar": "واجهة زجاج",
+    "en": "Glass face"
    },
    {
-    "ref": "OV-BACH-B",
-    "ar": "أسود",
-    "en": "Black",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-BACH-1.jpg"
+    "ar": "مفاتيح سيناريوهات",
+    "en": "Scene keys"
    }
   ],
-  "scene": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/scene-OV-BACH.jpg"
+  "name_it": "مفاتيح ذكية Bach — أسود Bach Smart Switches — Black Orvibo MixSwitch Bach Dark",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-BACHB.jpg",
+  "extra": [
+   "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-BACHB-x0.jpg"
+  ]
  },
  {
   "code": "OV-DEFY",
