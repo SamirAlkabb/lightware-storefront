@@ -1,0 +1,9 @@
+# Lightware — https://www.lightwaresy.com
+# Every product also exists as a real, crawlable page at /p/<code>/ .
+# The app's share link /catalog?item=<code> is left crawlable on purpose:
+# it carries a canonical to /catalog/, which is how Google consolidates it.
+# Disallowing it would hide that canonical and strand the URL instead.
+User-agent: *
+Allow: /
+
+Sitemap: https://www.lightwaresy.com/sitemap.xml
