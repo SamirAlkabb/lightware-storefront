@@ -1,688 +1,655 @@
 [
-  {
-    "code": "UR-VOG7",
-    "ref": "UR-VOG7",
-    "brand": "Urmet",
-    "category": "intercom",
-    "component": false,
-    "ar": "شاشة انترفون VOG7 — ٧ إنش",
-    "en": "VOG7 7″ Video Monitor",
-    "sub_ar": "شاشة لمس عريضة بتعليق جداري",
-    "specs": [
-      {
-        "ar": "شاشة ٧ إنش",
-        "en": "7″ screen"
-      },
-      {
-        "ar": "لمس",
-        "en": "Touch keys"
-      },
-      {
-        "ar": "بدون سماعة",
-        "en": "Hands-free"
-      }
-    ],
-    "name_it": "شاشة انترفون VOG7 — ٧ إنش VOG7 7″ Video Monitor Urmet UR-VOG7",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-VOG7.jpg",
-    "extra": []
-  },
-  {
-    "code": "UR-VOG5",
-    "ref": "1760/5",
-    "brand": "Urmet",
-    "category": "intercom",
-    "component": false,
-    "ar": "شاشة انترفون VOG5 أسود — ٥ إنش",
-    "en": "VOG5 5″ Video Monitor — Black",
-    "sub_ar": "شاشة لمس زجاج أسود بدون سماعة",
-    "specs": [
-      {
-        "ar": "شاشة ٥ إنش",
-        "en": "5″ screen"
-      },
-      {
-        "ar": "لمس",
-        "en": "Touch keys"
-      },
-      {
-        "ar": "بدون سماعة",
-        "en": "Hands-free"
-      }
-    ],
-    "name_it": "شاشة انترفون VOG5 أسود — ٥ إنش VOG5 5″ Video Monitor — Black Urmet 1760/5",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-VOG5.jpg",
-    "extra": []
-  },
-  {
-    "code": "UR-VOG5W",
-    "ref": "1760/6",
-    "brand": "Urmet",
-    "category": "intercom",
-    "component": false,
-    "ar": "شاشة انترفون VOG5 أبيض — ٥ إنش",
-    "en": "VOG5 5″ Video Monitor — White",
-    "sub_ar": "شاشة لمس بيضا بدون سماعة",
-    "specs": [
-      {
-        "ar": "شاشة ٥ إنش",
-        "en": "5″ screen"
-      },
-      {
-        "ar": "لمس",
-        "en": "Touch keys"
-      },
-      {
-        "ar": "بدون سماعة",
-        "en": "Hands-free"
-      }
-    ],
-    "name_it": "شاشة انترفون VOG5 أبيض — ٥ إنش VOG5 5″ Video Monitor — White Urmet 1760/6",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-VOG5W.jpg",
-    "extra": []
-  },
-  {
-    "code": "UR-MIRO5",
-    "ref": "UR-MIRO5-W",
-    "brand": "Urmet",
-    "category": "intercom",
-    "component": false,
-    "ar": "شاشة انترفون Mìro لمس أبيض",
-    "en": "Mìro Hands-free Monitor — White",
-    "sub_ar": "شاشة بدون سماعة — أبيض",
-    "specs": [
-      {
-        "ar": "لمس",
-        "en": "Touch keys"
-      },
-      {
-        "ar": "بدون سماعة",
-        "en": "Hands-free"
-      }
-    ],
-    "name_it": "شاشة انترفون Mìro لمس أبيض Mìro Hands-free Monitor — White Urmet UR-MIRO5-W",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-MIRO5.jpg",
-    "extra": []
-  },
-  {
-    "code": "UR-MIRO5B",
-    "ref": "UR-MIRO5-B",
-    "brand": "Urmet",
-    "category": "intercom",
-    "component": false,
-    "ar": "شاشة انترفون Mìro لمس أسود",
-    "en": "Mìro Hands-free Monitor — Black",
-    "sub_ar": "شاشة بدون سماعة — أسود",
-    "specs": [
-      {
-        "ar": "لمس",
-        "en": "Touch keys"
-      },
-      {
-        "ar": "بدون سماعة",
-        "en": "Hands-free"
-      }
-    ],
-    "name_it": "شاشة انترفون Mìro لمس أسود Mìro Hands-free Monitor — Black Urmet UR-MIRO5-B",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-MIRO5B.jpg",
-    "extra": []
-  },
-  {
-    "code": "UR-1183",
-    "ref": "1183/5",
-    "brand": "Urmet",
-    "category": "intercom",
-    "component": false,
-    "ar": "سماعة انترفون صوتية",
-    "en": "Audio Door Phone",
-    "sub_ar": "سماعة حائط مع زر فتح الباب",
-    "specs": [
-      {
-        "ar": "صوت فقط",
-        "en": "Audio only"
-      },
-      {
-        "ar": "زر فتح باب",
-        "en": "Door-release key"
-      }
-    ],
-    "name_it": "سماعة انترفون صوتية Audio Door Phone Urmet 1183/5",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-1183.jpg",
-    "extra": []
-  },
-  {
-    "code": "UR-ALPHA-K",
-    "ref": "UR-ALPHA-K",
-    "brand": "Urmet",
-    "category": "intercom",
-    "component": false,
-    "ar": "لوحة مدخل Alpha — شاشة وكيباد",
-    "en": "Alpha Entrance Panel — Display & Keypad",
-    "sub_ar": "لوحة خارجية بكاميرا وشاشة أسامي وكيباد أرقام",
-    "specs": [
-      {
-        "ar": "كاميرا فيديو",
-        "en": "Video camera"
-      },
-      {
-        "ar": "شاشة أسامي",
-        "en": "Name display"
-      },
-      {
-        "ar": "كيباد أرقام",
-        "en": "Numeric keypad"
-      },
-      {
-        "ar": "نظام مقاطع",
-        "en": "Modular system"
-      }
-    ],
-    "name_it": "لوحة مدخل Alpha — شاشة وكيباد Alpha Entrance Panel — Display & Keypad Urmet UR-ALPHA-K",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-ALPHA-K.jpg",
-    "extra": [],
-    "scene": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/scene-UR-ALPHA-K.jpg"
-  },
-  {
-    "code": "UR-ALPHA-B",
-    "ref": "UR-ALPHA-B",
-    "brand": "Urmet",
-    "category": "intercom",
-    "component": false,
-    "ar": "لوحة مدخل Alpha — أزرار نداء",
-    "en": "Alpha Entrance Panel — Call Buttons",
-    "sub_ar": "لوحة خارجية بكاميرا وأزرار نداء بأسامي مضوّية",
-    "specs": [
-      {
-        "ar": "كاميرا فيديو",
-        "en": "Video camera"
-      },
-      {
-        "ar": "أزرار بأسامي",
-        "en": "Named call buttons"
-      },
-      {
-        "ar": "نظام مقاطع — عالطلب حسب عدد الشقق",
-        "en": "Modular — sized to the building"
-      }
-    ],
-    "name_it": "لوحة مدخل Alpha — أزرار نداء Alpha Entrance Panel — Call Buttons Urmet UR-ALPHA-B",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-ALPHA-B.jpg",
-    "extra": []
-  },
-  {
-    "code": "UR-SINTHESI",
-    "ref": "UR-SINTHESI",
-    "brand": "Urmet",
-    "category": "intercom",
-    "component": false,
-    "ar": "لوحة مدخل Sinthesi ستانلس",
-    "en": "Sinthesi Steel Entrance Panel",
-    "sub_ar": "لوحة خارجية ستانلس ضد العبث — للأبنية",
-    "specs": [
-      {
-        "ar": "ستانلس ستيل",
-        "en": "Stainless steel"
-      },
-      {
-        "ar": "ضد العبث",
-        "en": "Anti-vandal"
-      },
-      {
-        "ar": "أزرار بأسامي",
-        "en": "Named call buttons"
-      }
-    ],
-    "name_it": "لوحة مدخل Sinthesi ستانلس Sinthesi Steel Entrance Panel Urmet UR-SINTHESI",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-SINTHESI.jpg",
-    "extra": [
-      "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-SINTHESI-x0.jpg"
-    ],
-    "scene": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/scene-UR-SINTHESI.jpg"
-  },
-  {
-    "code": "OV-MP7U",
-    "ref": "MixPad 7 Ultra",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "بانل لمس ذكي MixPad 7 Ultra",
-    "en": "MixPad 7 Ultra",
-    "sub_ar": "شاشة تحكم مركزية للبيت الذكي",
-    "specs": [
-      {
-        "ar": "شاشة لمس",
-        "en": "Touchscreen"
-      },
-      {
-        "ar": "تحكم مركزي",
-        "en": "Central control"
-      }
-    ],
-    "name_it": "بانل لمس ذكي MixPad 7 Ultra MixPad 7 Ultra Orvibo MixPad 7 Ultra",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-MP7U.jpg",
-    "extra": [],
-    "scene": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/scene-OV-MP7U.jpg"
-  },
-  {
-    "code": "OV-MP7",
-    "ref": "MixPad 7",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "بانل لمس ذكي MixPad 7",
-    "en": "MixPad 7",
-    "sub_ar": "شاشة تحكم جدارية ٧ إنش",
-    "specs": [
-      {
-        "ar": "شاشة لمس",
-        "en": "Touchscreen"
-      },
-      {
-        "ar": "تحكم مركزي",
-        "en": "Central control"
-      }
-    ],
-    "name_it": "بانل لمس ذكي MixPad 7 MixPad 7 Orvibo MixPad 7",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-MP7.jpg",
-    "extra": []
-  },
-  {
-    "code": "OV-MPX",
-    "ref": "MixPad X",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "بانل لمس ذكي MixPad X",
-    "en": "MixPad X",
-    "sub_ar": "شاشة تحكم عريضة للصالون",
-    "specs": [
-      {
-        "ar": "شاشة لمس عريضة",
-        "en": "Wide touchscreen"
-      }
-    ],
-    "name_it": "بانل لمس ذكي MixPad X MixPad X Orvibo MixPad X",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-MPX.jpg",
-    "extra": []
-  },
-  {
-    "code": "OV-MPM5",
-    "ref": "MixPad M5",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "بانل لمس ذكي MixPad M5",
-    "en": "MixPad M5",
-    "sub_ar": "بانل جداري مربع بشاشة لمس",
-    "specs": [
-      {
-        "ar": "شاشة لمس",
-        "en": "Touchscreen"
-      }
-    ],
-    "name_it": "بانل لمس ذكي MixPad M5 MixPad M5 Orvibo MixPad M5",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-MPM5.jpg",
-    "extra": []
-  },
-  {
-    "code": "OV-MPS",
-    "ref": "MixPad S",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "بانل لمس ذكي MixPad S",
-    "en": "MixPad S",
-    "sub_ar": "بانل صغير بشاشة ومفاتيح",
-    "specs": [
-      {
-        "ar": "شاشة لمس",
-        "en": "Touchscreen"
-      },
-      {
-        "ar": "مفاتيح إضاءة",
-        "en": "Light keys"
-      }
-    ],
-    "name_it": "بانل لمس ذكي MixPad S MixPad S Orvibo MixPad S",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-MPS.jpg",
-    "extra": []
-  },
-  {
-    "code": "OV-MPG",
-    "ref": "MixPad Genie",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "بانل لمس ذكي MixPad Genie",
-    "en": "MixPad Genie",
-    "sub_ar": "شاشة ساعة ومفاتيح إضاءة",
-    "specs": [
-      {
-        "ar": "شاشة لمس",
-        "en": "Touchscreen"
-      },
-      {
-        "ar": "مفاتيح إضاءة",
-        "en": "Light keys"
-      }
-    ],
-    "name_it": "بانل لمس ذكي MixPad Genie MixPad Genie Orvibo MixPad Genie",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-MPG.jpg",
-    "extra": [
-      "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-MPG-x0.jpg"
-    ]
-  },
-  {
-    "code": "OV-BACH",
-    "ref": "MixSwitch Bach Gold",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "مفاتيح ذكية Bach — ذهبي",
-    "en": "Bach Smart Switches — Gold",
-    "sub_ar": "واجهة زجاج شمبانيا مع بانل شاشة",
-    "specs": [
-      {
-        "ar": "واجهة زجاج",
-        "en": "Glass face"
-      },
-      {
-        "ar": "مفاتيح سيناريوهات",
-        "en": "Scene keys"
-      }
-    ],
-    "name_it": "مفاتيح ذكية Bach — ذهبي Bach Smart Switches — Gold Orvibo MixSwitch Bach Gold",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-BACH.jpg",
-    "extra": [],
-    "scene": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/scene-OV-BACH.jpg"
-  },
-  {
-    "code": "OV-BACHB",
-    "ref": "MixSwitch Bach Dark",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "مفاتيح ذكية Bach — أسود",
-    "en": "Bach Smart Switches — Black",
-    "sub_ar": "واجهة زجاج غامقة مع بانل شاشة",
-    "specs": [
-      {
-        "ar": "واجهة زجاج",
-        "en": "Glass face"
-      },
-      {
-        "ar": "مفاتيح سيناريوهات",
-        "en": "Scene keys"
-      }
-    ],
-    "name_it": "مفاتيح ذكية Bach — أسود Bach Smart Switches — Black Orvibo MixSwitch Bach Dark",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-BACHB.jpg",
-    "extra": [
-      "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-BACHB-x0.jpg"
-    ]
-  },
-  {
-    "code": "OV-DEFY",
-    "ref": "MixSwitch Defy",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "مفاتيح ذكية — سلسلة Defy",
-    "en": "Defy Series Smart Switches",
-    "sub_ar": "مفاتيح ذكية بألوان — تتركب حسب الطلب",
-    "specs": [
-      {
-        "ar": "ألوان متعددة",
-        "en": "Colour range"
-      },
-      {
-        "ar": "مقاطع تتجمع",
-        "en": "Modular gangs"
-      }
-    ],
-    "name_it": "مفاتيح ذكية — سلسلة Defy Defy Series Smart Switches Orvibo MixSwitch Defy",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-DEFY.jpg",
-    "extra": []
-  },
-  {
-    "code": "OV-SUPER",
-    "ref": "Super Smart Switch",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "مفتاح ذكي Super",
-    "en": "Super Smart Switch",
-    "sub_ar": "طقم مفاتيح عريض بواجهة موحدة",
-    "specs": [
-      {
-        "ar": "واجهة موحدة",
-        "en": "Seamless face"
-      }
-    ],
-    "name_it": "مفتاح ذكي Super Super Smart Switch Orvibo Super Smart Switch",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-SUPER.jpg",
-    "extra": []
-  },
-  {
-    "code": "OV-AC",
-    "ref": "OV-AC",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "بانل تحكم تكييف مركزي",
-    "en": "Central A/C Control Panel",
-    "sub_ar": "ثيرموستات جداري للتكييف المركزي",
-    "specs": [
-      {
-        "ar": "شاشة حرارة",
-        "en": "Temperature display"
-      }
-    ],
-    "name_it": "بانل تحكم تكييف مركزي Central A/C Control Panel Orvibo OV-AC",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-AC.jpg",
-    "extra": []
-  },
-  {
-    "code": "OV-CURT",
-    "ref": "OV-CURT",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "موتور برداية ذكي",
-    "en": "Smart Curtain Motor",
-    "sub_ar": "موتور مع سكة وريموت — فتح وسكر عالموبايل",
-    "specs": [
-      {
-        "ar": "مع سكة وريموت",
-        "en": "Track + remote"
-      },
-      {
-        "ar": "تحكم عالموبايل",
-        "en": "App control"
-      }
-    ],
-    "name_it": "موتور برداية ذكي Smart Curtain Motor Orvibo OV-CURT",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-CURT.jpg",
-    "extra": [
-      "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-CURT-x0.jpg"
-    ],
-    "scene": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/scene-OV-CURT.jpg"
-  },
-  {
-    "code": "OV-DWS",
-    "ref": "OV-DWS",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "حساس باب وشباك",
-    "en": "Door & Window Sensor",
-    "sub_ar": "بيعرف إذا الباب انفتح — تنبيه عالموبايل",
-    "specs": [
-      {
-        "ar": "تنبيه فتح وسكر",
-        "en": "Open/close alerts"
-      }
-    ],
-    "name_it": "حساس باب وشباك Door & Window Sensor Orvibo OV-DWS",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-DWS.jpg",
-    "extra": []
-  },
-  {
-    "code": "OV-HUB",
-    "ref": "VS20ZW",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "وحدة ربط ZigBee Mini Hub",
-    "en": "ZigBee Mini Hub",
-    "sub_ar": "قلب المنظومة — بيربط الحساسات والمفاتيح",
-    "specs": [
-      {
-        "ar": "زيغبي",
-        "en": "ZigBee"
-      }
-    ],
-    "name_it": "وحدة ربط ZigBee Mini Hub ZigBee Mini Hub Orvibo VS20ZW",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-HUB.jpg",
-    "extra": []
-  },
-  {
-    "code": "OV-RELAY",
-    "ref": "OV-RELAY",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "ريليه ذكي متعدد الوظائف",
-    "en": "ZigBee Multi-function Relay",
-    "sub_ar": "بيحوّل أي مفتاح عادي لذكي — بيتخبى بالعلبة",
-    "specs": [
-      {
-        "ar": "زيغبي",
-        "en": "ZigBee"
-      },
-      {
-        "ar": "بيركب خلف المفتاح",
-        "en": "In-wall fit"
-      }
-    ],
-    "name_it": "ريليه ذكي متعدد الوظائف ZigBee Multi-function Relay Orvibo OV-RELAY",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-RELAY.jpg",
-    "extra": []
-  },
-  {
-    "code": "OV-SAM",
-    "ref": "OV-SAM",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "وحدة ربط حساسات",
-    "en": "Sensor Access Module",
-    "sub_ar": "مدخل للحساسات السلكية عالمنظومة",
-    "specs": [
-      {
-        "ar": "زيغبي",
-        "en": "ZigBee"
-      }
-    ],
-    "name_it": "وحدة ربط حساسات Sensor Access Module Orvibo OV-SAM",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-SAM.jpg",
-    "extra": []
-  },
-  {
-    "code": "OV-GAS",
-    "ref": "OV-GAS",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "حساس غاز",
-    "en": "Combustible Gas Sensor",
-    "sub_ar": "إنذار تسرب غاز — تنبيه عالموبايل",
-    "specs": [
-      {
-        "ar": "إنذار صوتي",
-        "en": "Sounder"
-      },
-      {
-        "ar": "تنبيه عالموبايل",
-        "en": "App alert"
-      }
-    ],
-    "name_it": "حساس غاز Combustible Gas Sensor Orvibo OV-GAS",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-GAS.jpg",
-    "extra": []
-  },
-  {
-    "code": "OV-SMOKE",
-    "ref": "OV-SMOKE",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "حساس دخان",
-    "en": "Smoke Sensor",
-    "sub_ar": "إنذار حريق — تنبيه عالموبايل",
-    "specs": [
-      {
-        "ar": "إنذار صوتي",
-        "en": "Sounder"
-      },
-      {
-        "ar": "تنبيه عالموبايل",
-        "en": "App alert"
-      }
-    ],
-    "name_it": "حساس دخان Smoke Sensor Orvibo OV-SMOKE",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-SMOKE.jpg",
-    "extra": []
-  },
-  {
-    "code": "OV-WATER",
-    "ref": "OV-WATER",
-    "brand": "Orvibo",
-    "category": "automation",
-    "component": false,
-    "ar": "حساس تسرب مي",
-    "en": "Water Leak Sensor",
-    "sub_ar": "بينذر أول ما توصل المي لعندو",
-    "specs": [
-      {
-        "ar": "تنبيه عالموبايل",
-        "en": "App alert"
-      }
-    ],
-    "name_it": "حساس تسرب مي Water Leak Sensor Orvibo OV-WATER",
-    "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-WATER.jpg",
-    "extra": []
-  },
-  {
-    "code": "ZD120",
-    "ref": "ZD120",
-    "brand": "Lightware",
-    "division": "light",
-    "category": "pendants",
-    "component": false,
-    "ar": "نازلة أسطوانية أوبال ZD120",
-    "en": "ZD120 Opal Cylinder Pendant",
-    "sub_ar": "أسطوانة بلكسي أوبال بتضوي من جواتها — تعليق أفقي بحبلين",
-    "specs": [
-      {
-        "ar": "قطر ٢٨ سم · طول ١١٥ سم",
-        "en": "280 mm dia · 1150 mm long"
-      },
-      {
-        "ar": "ستريب ليد داخلي — ضوء متجانس",
-        "en": "Internal LED strip, uniform glow"
-      },
-      {
-        "ar": "تعليق أفقي بحبلين",
-        "en": "Horizontal, twin cable suspension"
-      },
-      {
-        "ar": "أطراف ألمنيوم كريمي",
-        "en": "Cream aluminium end caps"
-      }
-    ],
-    "name_it": "نازلة أسطوانية أوبال ZD120 ZD120 Opal Cylinder Pendant Lightware بروفيل المنيوم تيوب اسطوانة نازلة ليد opal tube pendant cylinder",
-    "scene": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/lws/ZD120.jpg",
-    "image": null,
-    "extra": []
-  }
+ {
+  "code": "UR-VOG7",
+  "ref": "UR-VOG7",
+  "brand": "Urmet",
+  "category": "intercom",
+  "component": false,
+  "ar": "شاشة انترفون VOG7 — ٧ إنش",
+  "en": "VOG7 7″ Video Monitor",
+  "sub_ar": "شاشة لمس عريضة بتعليق جداري",
+  "specs": [
+   {
+    "ar": "شاشة ٧ إنش",
+    "en": "7″ screen"
+   },
+   {
+    "ar": "لمس",
+    "en": "Touch keys"
+   },
+   {
+    "ar": "بدون سماعة",
+    "en": "Hands-free"
+   }
+  ],
+  "name_it": "شاشة انترفون VOG7 — ٧ إنش VOG7 7″ Video Monitor Urmet UR-VOG7",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-VOG7.jpg",
+  "extra": []
+ },
+ {
+  "code": "UR-VOG5",
+  "ref": "1760/5",
+  "brand": "Urmet",
+  "category": "intercom",
+  "component": false,
+  "ar": "شاشة انترفون VOG5 أسود — ٥ إنش",
+  "en": "VOG5 5″ Video Monitor — Black",
+  "sub_ar": "شاشة لمس زجاج أسود بدون سماعة",
+  "specs": [
+   {
+    "ar": "شاشة ٥ إنش",
+    "en": "5″ screen"
+   },
+   {
+    "ar": "لمس",
+    "en": "Touch keys"
+   },
+   {
+    "ar": "بدون سماعة",
+    "en": "Hands-free"
+   }
+  ],
+  "name_it": "شاشة انترفون VOG5 أسود — ٥ إنش VOG5 5″ Video Monitor — Black Urmet 1760/5",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-VOG5.jpg",
+  "extra": []
+ },
+ {
+  "code": "UR-VOG5W",
+  "ref": "1760/6",
+  "brand": "Urmet",
+  "category": "intercom",
+  "component": false,
+  "ar": "شاشة انترفون VOG5 أبيض — ٥ إنش",
+  "en": "VOG5 5″ Video Monitor — White",
+  "sub_ar": "شاشة لمس بيضا بدون سماعة",
+  "specs": [
+   {
+    "ar": "شاشة ٥ إنش",
+    "en": "5″ screen"
+   },
+   {
+    "ar": "لمس",
+    "en": "Touch keys"
+   },
+   {
+    "ar": "بدون سماعة",
+    "en": "Hands-free"
+   }
+  ],
+  "name_it": "شاشة انترفون VOG5 أبيض — ٥ إنش VOG5 5″ Video Monitor — White Urmet 1760/6",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-VOG5W.jpg",
+  "extra": []
+ },
+ {
+  "code": "UR-MIRO5",
+  "ref": "UR-MIRO5-W",
+  "brand": "Urmet",
+  "category": "intercom",
+  "component": false,
+  "ar": "شاشة انترفون Mìro لمس أبيض",
+  "en": "Mìro Hands-free Monitor — White",
+  "sub_ar": "شاشة بدون سماعة — أبيض",
+  "specs": [
+   {
+    "ar": "لمس",
+    "en": "Touch keys"
+   },
+   {
+    "ar": "بدون سماعة",
+    "en": "Hands-free"
+   }
+  ],
+  "name_it": "شاشة انترفون Mìro لمس أبيض Mìro Hands-free Monitor — White Urmet UR-MIRO5-W",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-MIRO5.jpg",
+  "extra": []
+ },
+ {
+  "code": "UR-MIRO5B",
+  "ref": "UR-MIRO5-B",
+  "brand": "Urmet",
+  "category": "intercom",
+  "component": false,
+  "ar": "شاشة انترفون Mìro لمس أسود",
+  "en": "Mìro Hands-free Monitor — Black",
+  "sub_ar": "شاشة بدون سماعة — أسود",
+  "specs": [
+   {
+    "ar": "لمس",
+    "en": "Touch keys"
+   },
+   {
+    "ar": "بدون سماعة",
+    "en": "Hands-free"
+   }
+  ],
+  "name_it": "شاشة انترفون Mìro لمس أسود Mìro Hands-free Monitor — Black Urmet UR-MIRO5-B",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-MIRO5B.jpg",
+  "extra": []
+ },
+ {
+  "code": "UR-1183",
+  "ref": "1183/5",
+  "brand": "Urmet",
+  "category": "intercom",
+  "component": false,
+  "ar": "سماعة انترفون صوتية",
+  "en": "Audio Door Phone",
+  "sub_ar": "سماعة حائط مع زر فتح الباب",
+  "specs": [
+   {
+    "ar": "صوت فقط",
+    "en": "Audio only"
+   },
+   {
+    "ar": "زر فتح باب",
+    "en": "Door-release key"
+   }
+  ],
+  "name_it": "سماعة انترفون صوتية Audio Door Phone Urmet 1183/5",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-1183.jpg",
+  "extra": []
+ },
+ {
+  "code": "UR-ALPHA-K",
+  "ref": "UR-ALPHA-K",
+  "brand": "Urmet",
+  "category": "intercom",
+  "component": false,
+  "ar": "لوحة مدخل Alpha — شاشة وكيباد",
+  "en": "Alpha Entrance Panel — Display & Keypad",
+  "sub_ar": "لوحة خارجية بكاميرا وشاشة أسامي وكيباد أرقام",
+  "specs": [
+   {
+    "ar": "كاميرا فيديو",
+    "en": "Video camera"
+   },
+   {
+    "ar": "شاشة أسامي",
+    "en": "Name display"
+   },
+   {
+    "ar": "كيباد أرقام",
+    "en": "Numeric keypad"
+   },
+   {
+    "ar": "نظام مقاطع",
+    "en": "Modular system"
+   }
+  ],
+  "name_it": "لوحة مدخل Alpha — شاشة وكيباد Alpha Entrance Panel — Display & Keypad Urmet UR-ALPHA-K",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-ALPHA-K.jpg",
+  "extra": [],
+  "scene": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/scene-UR-ALPHA-K.jpg"
+ },
+ {
+  "code": "UR-ALPHA-B",
+  "ref": "UR-ALPHA-B",
+  "brand": "Urmet",
+  "category": "intercom",
+  "component": false,
+  "ar": "لوحة مدخل Alpha — أزرار نداء",
+  "en": "Alpha Entrance Panel — Call Buttons",
+  "sub_ar": "لوحة خارجية بكاميرا وأزرار نداء بأسامي مضوّية",
+  "specs": [
+   {
+    "ar": "كاميرا فيديو",
+    "en": "Video camera"
+   },
+   {
+    "ar": "أزرار بأسامي",
+    "en": "Named call buttons"
+   },
+   {
+    "ar": "نظام مقاطع — عالطلب حسب عدد الشقق",
+    "en": "Modular — sized to the building"
+   }
+  ],
+  "name_it": "لوحة مدخل Alpha — أزرار نداء Alpha Entrance Panel — Call Buttons Urmet UR-ALPHA-B",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-ALPHA-B.jpg",
+  "extra": []
+ },
+ {
+  "code": "UR-SINTHESI",
+  "ref": "UR-SINTHESI",
+  "brand": "Urmet",
+  "category": "intercom",
+  "component": false,
+  "ar": "لوحة مدخل Sinthesi ستانلس",
+  "en": "Sinthesi Steel Entrance Panel",
+  "sub_ar": "لوحة خارجية ستانلس ضد العبث — للأبنية",
+  "specs": [
+   {
+    "ar": "ستانلس ستيل",
+    "en": "Stainless steel"
+   },
+   {
+    "ar": "ضد العبث",
+    "en": "Anti-vandal"
+   },
+   {
+    "ar": "أزرار بأسامي",
+    "en": "Named call buttons"
+   }
+  ],
+  "name_it": "لوحة مدخل Sinthesi ستانلس Sinthesi Steel Entrance Panel Urmet UR-SINTHESI",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-SINTHESI.jpg",
+  "extra": [
+   "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/UR-SINTHESI-x0.jpg"
+  ],
+  "scene": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/scene-UR-SINTHESI.jpg"
+ },
+ {
+  "code": "OV-MP7U",
+  "ref": "MixPad 7 Ultra",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "بانل لمس ذكي MixPad 7 Ultra",
+  "en": "MixPad 7 Ultra",
+  "sub_ar": "شاشة تحكم مركزية للبيت الذكي",
+  "specs": [
+   {
+    "ar": "شاشة لمس",
+    "en": "Touchscreen"
+   },
+   {
+    "ar": "تحكم مركزي",
+    "en": "Central control"
+   }
+  ],
+  "name_it": "بانل لمس ذكي MixPad 7 Ultra MixPad 7 Ultra Orvibo MixPad 7 Ultra",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-MP7U.jpg",
+  "extra": [],
+  "scene": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/scene-OV-MP7U.jpg"
+ },
+ {
+  "code": "OV-MP7",
+  "ref": "MixPad 7",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "بانل لمس ذكي MixPad 7",
+  "en": "MixPad 7",
+  "sub_ar": "شاشة تحكم جدارية ٧ إنش",
+  "specs": [
+   {
+    "ar": "شاشة لمس",
+    "en": "Touchscreen"
+   },
+   {
+    "ar": "تحكم مركزي",
+    "en": "Central control"
+   }
+  ],
+  "name_it": "بانل لمس ذكي MixPad 7 MixPad 7 Orvibo MixPad 7",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-MP7.jpg",
+  "extra": []
+ },
+ {
+  "code": "OV-MPX",
+  "ref": "MixPad X",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "بانل لمس ذكي MixPad X",
+  "en": "MixPad X",
+  "sub_ar": "شاشة تحكم عريضة للصالون",
+  "specs": [
+   {
+    "ar": "شاشة لمس عريضة",
+    "en": "Wide touchscreen"
+   }
+  ],
+  "name_it": "بانل لمس ذكي MixPad X MixPad X Orvibo MixPad X",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-MPX.jpg",
+  "extra": []
+ },
+ {
+  "code": "OV-MPM5",
+  "ref": "MixPad M5",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "بانل لمس ذكي MixPad M5",
+  "en": "MixPad M5",
+  "sub_ar": "بانل جداري مربع بشاشة لمس",
+  "specs": [
+   {
+    "ar": "شاشة لمس",
+    "en": "Touchscreen"
+   }
+  ],
+  "name_it": "بانل لمس ذكي MixPad M5 MixPad M5 Orvibo MixPad M5",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-MPM5.jpg",
+  "extra": []
+ },
+ {
+  "code": "OV-MPS",
+  "ref": "MixPad S",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "بانل لمس ذكي MixPad S",
+  "en": "MixPad S",
+  "sub_ar": "بانل صغير بشاشة ومفاتيح",
+  "specs": [
+   {
+    "ar": "شاشة لمس",
+    "en": "Touchscreen"
+   },
+   {
+    "ar": "مفاتيح إضاءة",
+    "en": "Light keys"
+   }
+  ],
+  "name_it": "بانل لمس ذكي MixPad S MixPad S Orvibo MixPad S",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-MPS.jpg",
+  "extra": []
+ },
+ {
+  "code": "OV-MPG",
+  "ref": "MixPad Genie",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "بانل لمس ذكي MixPad Genie",
+  "en": "MixPad Genie",
+  "sub_ar": "شاشة ساعة ومفاتيح إضاءة",
+  "specs": [
+   {
+    "ar": "شاشة لمس",
+    "en": "Touchscreen"
+   },
+   {
+    "ar": "مفاتيح إضاءة",
+    "en": "Light keys"
+   }
+  ],
+  "name_it": "بانل لمس ذكي MixPad Genie MixPad Genie Orvibo MixPad Genie",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-MPG.jpg",
+  "extra": [
+   "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-MPG-x0.jpg"
+  ]
+ },
+ {
+  "code": "OV-BACH",
+  "ref": "MixSwitch Bach Gold",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "مفاتيح ذكية Bach — ذهبي",
+  "en": "Bach Smart Switches — Gold",
+  "sub_ar": "واجهة زجاج شمبانيا مع بانل شاشة",
+  "specs": [
+   {
+    "ar": "واجهة زجاج",
+    "en": "Glass face"
+   },
+   {
+    "ar": "مفاتيح سيناريوهات",
+    "en": "Scene keys"
+   }
+  ],
+  "name_it": "مفاتيح ذكية Bach — ذهبي Bach Smart Switches — Gold Orvibo MixSwitch Bach Gold",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-BACH.jpg",
+  "extra": [],
+  "scene": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/scene-OV-BACH.jpg"
+ },
+ {
+  "code": "OV-BACHB",
+  "ref": "MixSwitch Bach Dark",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "مفاتيح ذكية Bach — أسود",
+  "en": "Bach Smart Switches — Black",
+  "sub_ar": "واجهة زجاج غامقة مع بانل شاشة",
+  "specs": [
+   {
+    "ar": "واجهة زجاج",
+    "en": "Glass face"
+   },
+   {
+    "ar": "مفاتيح سيناريوهات",
+    "en": "Scene keys"
+   }
+  ],
+  "name_it": "مفاتيح ذكية Bach — أسود Bach Smart Switches — Black Orvibo MixSwitch Bach Dark",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-BACHB.jpg",
+  "extra": [
+   "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-BACHB-x0.jpg"
+  ]
+ },
+ {
+  "code": "OV-DEFY",
+  "ref": "MixSwitch Defy",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "مفاتيح ذكية — سلسلة Defy",
+  "en": "Defy Series Smart Switches",
+  "sub_ar": "مفاتيح ذكية بألوان — تتركب حسب الطلب",
+  "specs": [
+   {
+    "ar": "ألوان متعددة",
+    "en": "Colour range"
+   },
+   {
+    "ar": "مقاطع تتجمع",
+    "en": "Modular gangs"
+   }
+  ],
+  "name_it": "مفاتيح ذكية — سلسلة Defy Defy Series Smart Switches Orvibo MixSwitch Defy",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-DEFY.jpg",
+  "extra": []
+ },
+ {
+  "code": "OV-SUPER",
+  "ref": "Super Smart Switch",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "مفتاح ذكي Super",
+  "en": "Super Smart Switch",
+  "sub_ar": "طقم مفاتيح عريض بواجهة موحدة",
+  "specs": [
+   {
+    "ar": "واجهة موحدة",
+    "en": "Seamless face"
+   }
+  ],
+  "name_it": "مفتاح ذكي Super Super Smart Switch Orvibo Super Smart Switch",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-SUPER.jpg",
+  "extra": []
+ },
+ {
+  "code": "OV-AC",
+  "ref": "OV-AC",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "بانل تحكم تكييف مركزي",
+  "en": "Central A/C Control Panel",
+  "sub_ar": "ثيرموستات جداري للتكييف المركزي",
+  "specs": [
+   {
+    "ar": "شاشة حرارة",
+    "en": "Temperature display"
+   }
+  ],
+  "name_it": "بانل تحكم تكييف مركزي Central A/C Control Panel Orvibo OV-AC",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-AC.jpg",
+  "extra": []
+ },
+ {
+  "code": "OV-CURT",
+  "ref": "OV-CURT",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "موتور برداية ذكي",
+  "en": "Smart Curtain Motor",
+  "sub_ar": "موتور مع سكة وريموت — فتح وسكر عالموبايل",
+  "specs": [
+   {
+    "ar": "مع سكة وريموت",
+    "en": "Track + remote"
+   },
+   {
+    "ar": "تحكم عالموبايل",
+    "en": "App control"
+   }
+  ],
+  "name_it": "موتور برداية ذكي Smart Curtain Motor Orvibo OV-CURT",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-CURT.jpg",
+  "extra": [
+   "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-CURT-x0.jpg"
+  ],
+  "scene": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/scene-OV-CURT.jpg"
+ },
+ {
+  "code": "OV-DWS",
+  "ref": "OV-DWS",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "حساس باب وشباك",
+  "en": "Door & Window Sensor",
+  "sub_ar": "بيعرف إذا الباب انفتح — تنبيه عالموبايل",
+  "specs": [
+   {
+    "ar": "تنبيه فتح وسكر",
+    "en": "Open/close alerts"
+   }
+  ],
+  "name_it": "حساس باب وشباك Door & Window Sensor Orvibo OV-DWS",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-DWS.jpg",
+  "extra": []
+ },
+ {
+  "code": "OV-HUB",
+  "ref": "VS20ZW",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "وحدة ربط ZigBee Mini Hub",
+  "en": "ZigBee Mini Hub",
+  "sub_ar": "قلب المنظومة — بيربط الحساسات والمفاتيح",
+  "specs": [
+   {
+    "ar": "زيغبي",
+    "en": "ZigBee"
+   }
+  ],
+  "name_it": "وحدة ربط ZigBee Mini Hub ZigBee Mini Hub Orvibo VS20ZW",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-HUB.jpg",
+  "extra": []
+ },
+ {
+  "code": "OV-RELAY",
+  "ref": "OV-RELAY",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "ريليه ذكي متعدد الوظائف",
+  "en": "ZigBee Multi-function Relay",
+  "sub_ar": "بيحوّل أي مفتاح عادي لذكي — بيتخبى بالعلبة",
+  "specs": [
+   {
+    "ar": "زيغبي",
+    "en": "ZigBee"
+   },
+   {
+    "ar": "بيركب خلف المفتاح",
+    "en": "In-wall fit"
+   }
+  ],
+  "name_it": "ريليه ذكي متعدد الوظائف ZigBee Multi-function Relay Orvibo OV-RELAY",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-RELAY.jpg",
+  "extra": []
+ },
+ {
+  "code": "OV-SAM",
+  "ref": "OV-SAM",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "وحدة ربط حساسات",
+  "en": "Sensor Access Module",
+  "sub_ar": "مدخل للحساسات السلكية عالمنظومة",
+  "specs": [
+   {
+    "ar": "زيغبي",
+    "en": "ZigBee"
+   }
+  ],
+  "name_it": "وحدة ربط حساسات Sensor Access Module Orvibo OV-SAM",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-SAM.jpg",
+  "extra": []
+ },
+ {
+  "code": "OV-GAS",
+  "ref": "OV-GAS",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "حساس غاز",
+  "en": "Combustible Gas Sensor",
+  "sub_ar": "إنذار تسرب غاز — تنبيه عالموبايل",
+  "specs": [
+   {
+    "ar": "إنذار صوتي",
+    "en": "Sounder"
+   },
+   {
+    "ar": "تنبيه عالموبايل",
+    "en": "App alert"
+   }
+  ],
+  "name_it": "حساس غاز Combustible Gas Sensor Orvibo OV-GAS",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-GAS.jpg",
+  "extra": []
+ },
+ {
+  "code": "OV-SMOKE",
+  "ref": "OV-SMOKE",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "حساس دخان",
+  "en": "Smoke Sensor",
+  "sub_ar": "إنذار حريق — تنبيه عالموبايل",
+  "specs": [
+   {
+    "ar": "إنذار صوتي",
+    "en": "Sounder"
+   },
+   {
+    "ar": "تنبيه عالموبايل",
+    "en": "App alert"
+   }
+  ],
+  "name_it": "حساس دخان Smoke Sensor Orvibo OV-SMOKE",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-SMOKE.jpg",
+  "extra": []
+ },
+ {
+  "code": "OV-WATER",
+  "ref": "OV-WATER",
+  "brand": "Orvibo",
+  "category": "automation",
+  "component": false,
+  "ar": "حساس تسرب مي",
+  "en": "Water Leak Sensor",
+  "sub_ar": "بينذر أول ما توصل المي لعندو",
+  "specs": [
+   {
+    "ar": "تنبيه عالموبايل",
+    "en": "App alert"
+   }
+  ],
+  "name_it": "حساس تسرب مي Water Leak Sensor Orvibo OV-WATER",
+  "image": "https://ohprikkwnymjtcxzoylq.supabase.co/storage/v1/object/public/item-images/smw/OV-WATER.jpg",
+  "extra": []
+ }
 ]
