@@ -1,8 +1,10 @@
 # Lightware — https://www.lightwaresy.com
 # Every product also exists as a real, crawlable page at /p/<code>/ .
-# The app's share link /catalog?item=<code> is left crawlable on purpose:
+# The app's share link /catalog/?item=<code> is left crawlable on purpose:
 # it carries a canonical to /catalog/, which is how Google consolidates it.
 # Disallowing it would hide that canonical and strand the URL instead.
+# /seo-manifest.json is the build's own record of the product pages
+# (content hash + lastmod) — harmless to crawl, nothing to index.
 User-agent: *
 Allow: /
 
